@@ -1,0 +1,3 @@
+/Users/Marta/Projects/ray-tracing/build/CMakeFiles/rebuild_cache.dir
+/Users/Marta/Projects/ray-tracing/build/CMakeFiles/edit_cache.dir
+/Users/Marta/Projects/ray-tracing/build/CMakeFiles/sprios.dir
